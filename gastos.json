@@ -1,5 +1,8 @@
 {
     "01/2026": {
-        "Itallo": 150.51
+        "Cabelo": {
+            "valor": 50.0,
+            "categoria": "Beleza"
+        }
     }
 }
